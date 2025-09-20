@@ -1,7 +1,3 @@
-<?php
-// سياسة الخصوصية للتطبيق - نظام توثيق ملف التأشيرة
-// Privacy Policy for Visa Documentation System App
-?>
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
@@ -275,3 +271,4 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
